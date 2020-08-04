@@ -1,7 +1,7 @@
 ### Hi there  I'm Edo 👋
 
 
-<img src="Image/background.png" alt="banner edo lorenza">
+<img src="https://github.com/edolorenza/edolorenza/blob/master/Image/background.png" alt="banner edo lorenza">
 
 I'm a Writer of codes, blogs and things that live on the web. An easily inspired inspirational individual with a strong predilection towards most things nerdy and movie addict.Doing experiment to find what is the best,understand someone perspective, solve very small problems day by day. Make more crazy magic happen.
 
