@@ -13,6 +13,9 @@ I am an individual who is passionate about programming, be it ios or the web. Pa
 
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edolorenza&v=2)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edolorenza&layout=compact&count_private=true) ![edolorenza's github stats](https://github-readme-stats.vercel.app/api?username=edolorenza&show_icons=true&count_private=true)
 <!--
 **edolorenza/edolorenza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
