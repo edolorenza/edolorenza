@@ -11,8 +11,6 @@ I am an individual who is passionate about programming, be it ios or the web. Pa
 - Sharing updates on <a href="https://www.linkedin.com/in/edo-lorenza/">LinkedIn</a> 
 
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edolorenza&v=2)
-
 <!--START_SECTION:waka-->
 ```text
 Week: 19 February, 2021 - 26 February, 2021
