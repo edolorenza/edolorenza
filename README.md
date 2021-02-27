@@ -14,6 +14,13 @@ I am an individual who is passionate about programming, be it ios or the web. Pa
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edolorenza&v=2)
 
 <!--START_SECTION:waka-->
+```text
+PHP              28 hrs 38 mins  ████████████████████████▓   98.47 % 
+Other            11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+JSON             8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+JavaScript       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Blade Template   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+```
 <!--END_SECTION:waka-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edolorenza&layout=compact&count_private=true) ![edolorenza's github stats](https://github-readme-stats.vercel.app/api?username=edolorenza&show_icons=true&count_private=true)
