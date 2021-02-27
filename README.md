@@ -15,6 +15,8 @@ I am an individual who is passionate about programming, be it ios or the web. Pa
 
 <!--START_SECTION:waka-->
 ```text
+Week: 19 February, 2021 - 26 February, 2021
+
 PHP              28 hrs 38 mins  ████████████████████████▓   98.47 % 
 Other            11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 JSON             8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
