@@ -13,11 +13,11 @@ I am an individual who is passionate about programming, be it ios or the web. Pa
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 March, 2021 - 25 March, 2021
+Week: 19 March, 2021 - 26 March, 2021
 
-Swift            9 hrs 53 mins   ███████████████████████▒░   93.45 % 
-PHP              37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-Other            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Swift            10 hrs 58 mins  ███████████████████████▓░   94.06 % 
+PHP              37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+Other            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 ```
 <!--END_SECTION:waka-->
 
