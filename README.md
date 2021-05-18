@@ -13,9 +13,9 @@ I am an individual who is passionate about programming, be it ios or the web. Pa
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 May, 2021 - 16 May, 2021
+Week: 10 May, 2021 - 17 May, 2021
 
-Markdown   2 mins          ██████████████████▒░░░░░░   73.70 % 
+Markdown     26 mins         ██████████████████████▓░░   90.98 % 
 ```
 <!--END_SECTION:waka-->
 
