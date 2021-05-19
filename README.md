@@ -7,7 +7,7 @@ I am an individual who is passionate about programming, be it ios or the web. Pa
 
 
 ## Find me 🕵🏻‍♂️:
-- Website <a href="http://edolorenza.codes/">edolorenza.codes</a> 
+- Website <a href="http://edolorenza.me/">edolorenza.me</a> 
 - Sharing updates on <a href="https://www.linkedin.com/in/edo-lorenza/">LinkedIn</a> 
 
 
