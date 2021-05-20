@@ -13,13 +13,13 @@ I am an individual who is passionate about programming, be it ios or the web. Pa
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 May, 2021 - 18 May, 2021
+Week: 12 May, 2021 - 19 May, 2021
 
-Markdown         30 mins         ████████████▒░░░░░░░░░░░░   48.79 % 
-Blade Template   14 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.48 % 
-PHP              6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-Bash             5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Other            2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+Swift            1 hr 45 mins    ████████████▓░░░░░░░░░░░░   50.67 % 
+Markdown         1 hr            ███████▒░░░░░░░░░░░░░░░░░   29.14 % 
+Blade Template   14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+PHP              13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+Bash             5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 ```
 <!--END_SECTION:waka-->
 
