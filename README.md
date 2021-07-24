@@ -13,7 +13,7 @@ I am an individual who is passionate about programming, be it ios or the web. Pa
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 July, 2021 - 22 July, 2021
+Week: 17 July, 2021 - 23 July, 2021
 
 HTML    18 mins         █████████████████░░░░░░░░   68.62 % 
 Other   6 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.75 % 
