@@ -1,4 +1,4 @@
-### Hi there  I'm Edo L 👋
+### Hi there  I'm Edo 👋
 
 
 <img src="https://github.com/edolorenza/edolorenza/blob/master/Image/background.png" alt="banner edo lorenza">
