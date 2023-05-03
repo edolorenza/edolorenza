@@ -1,7 +1,7 @@
 ### Hi there  I'm Edo L 👋
 
 
-<img src="Image/background.png" alt="banner edo lorenza">
+<img src="Image/backgrounds.png" alt="banner edo lorenza">
 
 I am an individual who is passionate about programming, be it ios or the web. Passionate problem solver with good analytical thinking. Highly motivated and fast learner. I really enjoy experimenting to find the best, understanding someone's point of view, solving the very small problems from day to day and because of that I really enjoy sharing and applying what I already know and always looking forward to expand my skillset 
 
