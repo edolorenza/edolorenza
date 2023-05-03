@@ -1,13 +1,13 @@
 ### Hi there  I'm Edo L 👋
 
 
-<img src="https://github.com/edolorenza/edolorenza/blob/master/Image/background.png" alt="banner edo lorenza">
+<img src="Image/background.png" alt="banner edo lorenza">
 
 I am an individual who is passionate about programming, be it ios or the web. Passionate problem solver with good analytical thinking. Highly motivated and fast learner. I really enjoy experimenting to find the best, understanding someone's point of view, solving the very small problems from day to day and because of that I really enjoy sharing and applying what I already know and always looking forward to expand my skillset 
 
 
 ## Find me 🕵🏻‍♂️:
-- Website <a href="http://edolorenza.me/">edolorenza.me</a> 
+- Website <a href="http://edolorenza.my.id/">edolorenza.my.id</a>  
 - Sharing updates on <a href="https://www.linkedin.com/in/edo-lorenza/">LinkedIn</a> 
 
 
